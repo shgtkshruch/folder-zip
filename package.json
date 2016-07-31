@@ -1,0 +1,17 @@
+{
+  "name": "folder-zip",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "shgtkshruch <shgtk.shruch@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp --directory zippedDirectory"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-zip": "^3.2.0",
+    "minimist": "^1.2.0"
+  }
+}
